@@ -1,10 +1,12 @@
 package resolucao;
 
-public class Calculo_area {
-	public String resposta;
-	public double altura;
+public class CalculoArea {
+	
+	
 	public double comprimento;
-		
+	public double altura;	
+	
+	
 	public double calculoArea() {
 		return altura * comprimento;
 	}
@@ -16,17 +18,16 @@ public class Calculo_area {
 	}
 	
 	public String toString() {
-		return resposta 
-				+ "AREA = "
-				+ String.format("%.2f", calculoArea())+"\n"
+		return  "\nAREA = "
+				+ String.format("%.2f", calculoArea())
+				+"u²"
+				+"\n"
 				+ "PERIMETRO = "
-				+ String.format("%.2f", calculoPerimetro())+"\n"
+				+ String.format("%.2f", calculoPerimetro())
+				+"u"
+				+"\n" 
 				+ "DIAGONAL = "
-				+ String.format("%.2f", calcuDiagonal());
+				+ String.format("%.2f", calcuDiagonal())
+				+"u";
 	}
-	
-	
-	
-	
-	
 }
