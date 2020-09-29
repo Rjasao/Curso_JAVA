@@ -11,5 +11,6 @@
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/ricardo/eclipse-workspace/Curso_Java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="exemplo02"/>
 	<classpathentry kind="output" path="course/bin"/>
 </classpath>
