@@ -23,8 +23,12 @@ public class Programa {
 		
 		System.out.print("Dados do empregado: "+repara); // devolve os dados resolvidos
 		System.out.println();// pula linha
+		
 		System.out.print("Porcentagem de aumento salarial? : ");
-		repara.taxa = sc.nextDouble();//carrega dados
+		double taxa = sc.nextDouble();
+		repara.addTaxa(taxa);//carrega dados
+		
+		
 		System.out.println();// pula linha
 		System.out.print("Dados do empregado atualizado: "+repara); // devolve os dados resolvidos
 		

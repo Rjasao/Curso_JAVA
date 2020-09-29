@@ -11,6 +11,9 @@ public class CalculoFunc {
 		return salariob*(taxa/100)+(salariob - desconto);
 	}
 	
+	public void addTaxa (double taxa) {
+		this.taxa = taxa;
+	}
 	
 	public String toString() {
 		return nome
