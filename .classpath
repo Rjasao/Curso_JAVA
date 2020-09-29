@@ -12,5 +12,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="exemplo02"/>
+	<classpathentry kind="src" path="exemplo03"/>
 	<classpathentry kind="output" path="course/bin"/>
 </classpath>
