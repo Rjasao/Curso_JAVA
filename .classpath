@@ -14,5 +14,6 @@
 	<classpathentry kind="src" path="exemplo02"/>
 	<classpathentry kind="src" path="exemplo03"/>
 	<classpathentry kind="src" path="canvesaoDolar"/>
+	<classpathentry kind="src" path="movBancaria"/>
 	<classpathentry kind="output" path="course/bin"/>
 </classpath>
