@@ -17,5 +17,6 @@
 	<classpathentry kind="src" path="movBancaria"/>
 	<classpathentry kind="src" path="arrayListFunc"/>
 	<classpathentry kind="src" path="capitulo07"/>
+	<classpathentry kind="src" path="composicao"/>
 	<classpathentry kind="output" path="course/bin"/>
 </classpath>

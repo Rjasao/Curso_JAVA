@@ -6,7 +6,7 @@ import entidade.Order;
 import enums.OrderStatus;
 
 
-public class Programa {
+public class Programa07 {
 
 	public static void main(String[] args) {
 
