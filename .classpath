@@ -18,6 +18,7 @@
 	<classpathentry kind="src" path="arrayListFunc"/>
 	<classpathentry kind="src" path="capitulo07"/>
 	<classpathentry kind="src" path="composicao"/>
-	<classpathentry kind="src" path="caposição02"/>
+	<classpathentry kind="src" path="composição02"/>
+	<classpathentry kind="src" path="exemplo04"/>
 	<classpathentry kind="output" path="course/bin"/>
 </classpath>
