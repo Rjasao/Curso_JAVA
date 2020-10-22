@@ -61,9 +61,9 @@ public void setClient(Client client) {
 }
 
 
-public List<OrderItem> getItems() {
-	return items;
-}
+//public List<OrderItem> getItems() {
+//	return items;
+//}
 
 //public void setItems(List<OrderItem> items) {
 //	this.items = items;
